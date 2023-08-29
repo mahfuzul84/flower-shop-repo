@@ -43,6 +43,9 @@ body{
     font-size: 20px;
     font-weight: 700;
 }
+.btn-primary:hover{
+    color: blue;
+}
 /* Flower Section Styles */
 .flower-title{
     color: #272727;
@@ -96,6 +99,31 @@ body{
     font-style: normal;
     font-weight: 700;
     margin-top: 32px;
+    text-decoration-line: underline;
+}
+/* icons section styles */
+.div-container{
+    display: flex;
+    justify-content: center;
+    width: 960px;
+    height: 200px;
+    margin-top: 128px;
+    margin-left: 90px;
+    margin-right: 240px;
+    gap: 100px;
+    background-color: rgba(39,39,39,0.05);
+}
+.icon-text{
+    color: rgba(39,39,39,0.80);
+    text-align: center;
+    font-family: lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    gap: 100px;
+}
+.icons{
+    position: relative;
 }
 
 
