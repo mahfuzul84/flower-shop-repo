@@ -22,13 +22,13 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-style: normal;
     margin-top: 197px;
-    margin-left: 240px;
+    padding-left: 240px;
 }
 .banner-description{
     width: 400px;
     margin-top: 32px;
     margin-bottom: 32px;
-    margin-left: 240px;
+    padding-left: 240px;
     color: rgba(39,39,39,0.60);
     font-size: 18px;font-style: normal;
     font-weight: 400;
