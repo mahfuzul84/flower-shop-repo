@@ -239,7 +239,47 @@ body{
     background-color: #ffa500;
     border-radius: 8px;
 }
-
+/* flower shop section styles */
+.shop-title{
+    color: #E55473;
+    text-align: center;
+    font-family: lato;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800px;
+    padding-top: 128px;
+}
+.shop{
+    color: #FFF;
+    text-align: center;
+    font-family: lato;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800px;
+}
+.shop-description{
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-family: lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400px;
+    margin-top: 24px;
+}
+.copy-rigrt{
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-family: lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400px;
+    margin-top: 32px;
+    padding-bottom: 128px;
+}
+.flower-shop{
+    background: #111010;
+    height: 400px;
+}
 
 
 
