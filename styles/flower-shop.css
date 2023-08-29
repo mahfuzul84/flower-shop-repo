@@ -151,10 +151,13 @@ body{
     font-size: 20px;
     font-style: normal;
     font-weight: 700;
-    background-color: #E55473;
+    background-color: rgb(242, 72, 10);
     padding: 20px 43px;
     border-radius: 8px;
     margin-top: 32px;
+}
+.btn-discount:hover{
+    color: rgb(232, 232, 13);
 }
 .discount-container{
     display: flex;
@@ -208,7 +211,7 @@ body{
     font-size: 40px;
     font-style: normal;
     font-weight: 800px;
-    margin-top: 122px;
+    padding-top: 85px;
 }
 .deals-description{
     color: rgba(39,39,39,0.60);
@@ -239,7 +242,10 @@ body{
     background-color: #ffa500;
     border-radius: 8px;
 }
-/* flower shop section styles */
+.btn-deals:hover{
+    color: rgb(241, 14, 241);
+}
+/* footer section styles */
 .shop-title{
     color: #E55473;
     text-align: center;
@@ -267,7 +273,7 @@ body{
     margin-top: 24px;
 }
 .copy-rigrt{
-    color: rgba(255, 255, 255, 0.40);
+    color: rgb(218, 61, 61);
     text-align: center;
     font-family: lato;
     font-size: 16px;
