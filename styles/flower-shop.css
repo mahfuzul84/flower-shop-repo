@@ -38,5 +38,64 @@ body{
     margin-left: 240px;
     gap: 10px;
     border-radius: 8px;
-    background-color: #E55473;
+    background-color: #ffa500;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
 }
+/* Flower Section Styles */
+.flower-title{
+    color: #272727;
+    text-align: center;
+    font-family: lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+}
+.flower-description{
+    color: rgba(39,39,39,0.60);
+    text-align: center;
+    font-family: lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    margin-top: 24px 63px;
+}
+/* Box Section styles */
+.box-container{
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    margin-left: 240px;
+    margin-right: 240px;
+    margin-top: 48px;
+}
+.box-1{
+    width: 310px;
+    height: 428px;
+    background-color: rgb(229, 84, 115,0.10);
+    border-radius: 45% 45% 0% 0%; 
+}
+.box-2{
+    width: 310px;
+    height: 428px;
+    background-color: rgb(173, 216, 230);
+    border-radius: 45% 45% 0% 0%;  
+}
+.box-3{
+    width: 310px;
+    height: 428px;
+    background-color: rgb(211, 211, 211);
+    border-radius: 45% 45% 0% 0%; 
+}
+.flower-text{
+    color: #272727;
+    text-align: center;
+    font-family: lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    margin-top: 32px;
+}
+
+
