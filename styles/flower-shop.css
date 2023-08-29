@@ -122,8 +122,49 @@ body{
     font-weight: 600;
     gap: 100px;
 }
-.icons{
-    position: relative;
+/* discount section styles */
+.offer{
+    color: #272727;
+    font-family: lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
 }
+.discount{
+    color: #E55473;
+    font-family: lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+}
+.discount-description{
+    color: rgba(39,39,39,0.60);
+    align-items: center;
+    font-family: lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+}
+.btn-discount{
+    color: #FFF;
+    font-family: lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    background-color: #E55473;
+    padding: 20px 43px;
+    border-radius: 8px;
+    margin-top: 32px;
+}
+.discount-container{
+    display: flex;
+    justify-content: space-around;
+    height: 420px;
+    align-items: center;
+    background-color: rgb(229, 84, 115,0.10);
+    margin-top: 128px;
+    text-align: center;
+}
+
 
 
